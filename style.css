@@ -8,7 +8,7 @@ body
 #header
 {
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)),url(img/bg1.jpg);
+    background: #ebbb4c;
     background-position: center;
     background-size: cover;
     
@@ -25,21 +25,21 @@ body
 {
     border-radius: 50%;
     width: 250px;
-    /*border: 3px solid black;*/
+    border: 3px solid white;
 }
 .user-box h1
 {
     color: rgb(56, 56, 56);
     font-weight: bold;
     margin: 10px;
-    padding-top: 20px; 
-    font-size: 50px;
+     
+    font-size: 60px;
 }
 .user-box p
 {
     color:rgb(56, 56, 56); 
-    font-size: 32px;   
-    font-weight: 400;
+    font-size: 25px;   
+    font-weight: 500;
 }
 .scroll-btn
 {
@@ -101,6 +101,10 @@ body
     height: 40px;
     margin-left: 20px;
 
+}
+.nav-item
+{
+    padding: 10px;
 }
 .nav-bar .fa-bars
 {
