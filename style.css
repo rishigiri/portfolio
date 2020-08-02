@@ -530,15 +530,13 @@ body
     /*------------ ABOUT -------------*/
     .about
     {
-    padding-top: 30px;
-    margin-bottom: 150px; 
+        padding-top: 50px;
+        margin-bottom: 100px; 
     }
     .profile-img
     {
         height: 250px;
-        padding-bottom: 30px;
-        
-        
+        padding-bottom: 50px;
     }
 
     .nav-bar
@@ -612,7 +610,7 @@ body
     .resume
     {
         
-        padding-top: 50px;
+        padding-top: 0px;
         padding-bottom: 30px;
         background: #f9f9f9;
     }
@@ -623,7 +621,7 @@ body
     }
     .resume .experience
     {
-        padding-top: 70px;
+        padding-top: 30px;
     }
     .resume .education
     {
